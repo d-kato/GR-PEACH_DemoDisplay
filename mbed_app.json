@@ -1,0 +1,20 @@
+{
+    "config": {
+        "camera":{
+            "help": "0:disable 1:enable",
+            "value": "0"
+        },
+        "lcd":{
+            "help": "0:disable 1:enable",
+            "value": "1"
+        },
+        "usb-host-ch":{
+            "help": "(for GR-PEACH) 0:ch0 1:ch1",
+            "value": "0"
+        },
+        "audio-camera-shield":{
+            "help": "(for GR-PEACH) 0:not use 1:use",
+            "value": "0"
+        }
+    }
+}
